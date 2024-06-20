@@ -1,0 +1,57 @@
+
+ª
+java:S1192$"gDefine a constant instead of duplicating this literal "com.experitest.ExperiBank:id/loginView" 3 times.(Ë¼ÖÒ8°»õı1J$f6ccbaa7-bc8e-4c15-8f1f-c930936d50f5
+µ
+java:S1192g"mDefine a constant instead of duplicating this literal "com.experitest.ExperiBank:id/makePaymentView" 4 times.(›ÿÿ—øÿÿÿÿ8±»õı1J$c1845fcb-41b7-4ce9-9a50-d0648d491b79
+µ
+java:S1192\"mDefine a constant instead of duplicating this literal "com.experitest.ExperiBank:id/paymentHomeView" 3 times.(²ìŒÁüÿÿÿÿ8±»õı1J$a85a5ede-2d37-4962-8cb2-a71e4ac0ddd5
+‹
+java:S1192-"HDefine a constant instead of duplicating this literal "company" 3 times.(äËßµ8°»õı1J$a0f32c29-5338-42b2-9b23-48c87083be78
+|
+java:S1118	":Add a private constructor to hide the implicit public one.(¼¡óV8ã½õı1J$0a8b695a-8dfe-48a1-aa57-93185ac3d7f8
+o
+java:S1481",Remove this unused "element" local variable.(€¤âó8é½õı1J$07c34770-84c4-44d0-b30a-6f7eeb3d4086
+”
+java:S1858-"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(äËßµ8î½õı1J$1e257654-3fac-45ca-b9f1-ad980c909c02
+™
+java:S18582"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(æÒûÿÿÿÿ8ï½õı1J$a580bba4-cb7f-4d5d-ac5d-e52a2a7a50ed
+™
+java:S18588"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(àâã¡úÿÿÿÿ8ï½õı1J$716c89bb-53d4-4f13-a991-010012b67425
+”
+java:S1858>"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(¾€ì”8ğ½õı1J$34c36db6-6b2c-4b84-b11a-995fc6f6baa7
+”
+java:S1858D"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(Ëëšâ8ğ½õı1J$ad8db868-b693-4a91-9009-ab3c92cfdfed
+”
+java:S1858T"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(äËßµ8ò½õı1J$d603fdbb-e92f-4788-a07b-81e6d966f490
+™
+java:S1858Z"Q"loginPageElements" is an array of strings, there's no need to call "toString()".(©Œ³ßşÿÿÿÿ8ò½õı1J$2fc58ec2-bdaf-435e-ad69-804313381bb8
+–
+java:S1858e"S"summaryPageElements" is an array of strings, there's no need to call "toString()".(ó“Ò†8ô½õı1J$2fa1badd-0965-410d-9375-88650fc047ba
+–
+java:S1858o"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(¬Æ€“8õ½õı1J$8047b316-e08c-41e5-8e47-b722c37c6a99
+›
+java:S1858t"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(ÇŞÑÿÿÿÿÿ8õ½õı1J$e7f92a81-ff6b-407e-bb1e-ecb3cfff6279
+•
+java:S1858z"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(˜îÆ@8ö½õı1J$48fb09db-28f8-4c77-a9b7-14875661de4a
+—
+java:S1858"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(õ¶…ª8÷½õı1J$a6ae9f54-1ed7-45d5-be34-5f6516669ef8
+—
+java:S1858‹"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(Ùá½8ø½õı1J$9c9e804d-2399-4d6b-8b6f-8f9aa9fd5507
+–
+java:S1858‘"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(ÌÈf8ø½õı1J$3e49f5cc-df09-4dcb-af83-ce76f5656907
+—
+java:S1858œ"S"summaryPageElements" is an array of strings, there's no need to call "toString()".(ó“Ò†8ú½õı1J$8e42126f-cdf7-433e-838a-79c0c44ae988
+—
+java:S1858¨"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(şíÂ§8û½õı1J$2e0780f5-b78a-43b7-83a2-c27a199b99e6
+œ
+java:S1858­"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(÷³èÁşÿÿÿÿ8ü½õı1J$06a91c73-ffcd-409a-9fa0-afe3b2c22dc9
+œ
+java:S1858²"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(áŸ´ûÿÿÿÿ8ü½õı1J$77ad240d-cd52-45ea-a9ba-feee5b890083
+œ
+java:S1858¸"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(èÕäşÿÿÿÿ8ı½õı1J$ddc9810b-549c-4de4-bb17-f6a8e262cf29
+—
+java:S1858Å"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(õ¶…ª8öÓøı1J$01ecd317-d8f7-4d15-a2ec-3b013bab0e3d
+—
+java:S1858×"S"paymentPageElements" is an array of strings, there's no need to call "toString()".(õ¶…ª8øÓøı1J$d896dbb0-e3f7-41a9-a505-cab76049ccc9
+œ
+java:S1858ì"S"summaryPageElements" is an array of strings, there's no need to call "toString()".(¥³ú…úÿÿÿÿ8úÓøı1J$a1c43113-68fa-449c-be13-b2cd665a232a

@@ -1,0 +1,22 @@
+
+
+java:S4973V"<Strings and Boxed types should be compared using "equals()".(ºÓª8öÈ·„ı1J$68f26657-9376-41e3-be64-4c6bcdb74b0c
+¼
+java:S1130"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(¯™á8¥É·„ı1J$732ed403-11da-4f41-8fc0-83ddf872edaa
+±
+java:S1130"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(¯™á8¦É·„ı1J$67c9e1fd-0682-415c-a6ae-29266d5583fc
+~	java:S125"<This block of commented-out lines of code should be removed.(­–®8©É·„ı1J$5817ee26-7c42-4b28-b005-c064fa313036
+‚	java:S899$";Do something with the "boolean" value returned by "delete".(àõ˜üşÿÿÿÿ8²É·„ı1J$1019ec51-be1a-4ef7-a71f-c86a7946e2e5
+–
+java:S4042$"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(àõ˜üşÿÿÿÿ8³É·„ı1J$817de347-0e41-440f-b75b-b27a11bb4fb9
+‰	java:S899%"BDo something with the "boolean" value returned by "createNewFile".(’ƒ™òùÿÿÿÿ8´É·„ı1J$56b25c32-e8ca-4203-ae37-9b9487bf38e4
+š
+java:S3252)"WUse static access with "org.openqa.selenium.remote.CapabilityType" for "PLATFORM_NAME".(ÜÀæ8¸É·„ı1J$12f8eda5-7b65-49f3-86de-5c5952f58c9a
+„
+java:S10754"ARefactor your code to get this URI from a customizable parameter.(ë‘€×8½É·„ı1J$ef5f692f-13ae-44b5-815f-bdb1e044ad41
+~	java:S1250"<This block of commented-out lines of code should be removed.(ÑÑØ™8½É·„ı1J$cbbe014f-37ef-4bdd-9d58-86f8aedd1e27
+r	java:S106M"+Replace this use of System.err by a logger.(Şàš¬øÿÿÿÿ8ÉÉ·„ı1J$48f3bf30-805e-482e-aabf-f51a65904e5c
+œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ãœÿØúÿÿÿÿ8ÏÉ·„ı1J$378a86ca-831b-422d-92be-d7f4da5e57e7
+œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(•šöÊÿÿÿÿÿ8ĞÉ·„ı1J$d2460db7-b32d-4f7a-8e08-0f364642a735
